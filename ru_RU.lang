@@ -4542,8 +4542,8 @@ pixelmon.abilities.wonderguard=%s чудесная защита предотвр
 //Разведение
 pixelmon.egg.name=Яйцо
 ability.Egg.name=Вылупление
-pixelmon.egg.hatching=Это яйцо вылупилось в %s!
-pixelmon.egg.hatchingan=Это яйцо вылупилось в %s!
+pixelmon.egg.hatching=Из яйца вылупляется %s!
+pixelmon.egg.hatchingan=Из яйца вылупляется %s!
 pixelmon.egg.hatchingdata=Слот: %s, Циклов: %s, Шагов: %s
 pixelmon.egg.stage1=Изнутри слышатся некоторые звуки! Оно скоро вылупится!
 pixelmon.egg.stage2=Иногда двигается. Оно близко к вылуплению. 
@@ -4556,7 +4556,7 @@ pixelmon.ranch.level1=%s нравится %s немного все больше 
 pixelmon.ranch.level2=%s все более привлекает %s с каждым днем!
 pixelmon.ranch.level3=%s's любовь к %s быстро растет с каждым днем!
 pixelmon.ranch.level4=%s безумно влюбляется в %s каждый день!
-pixelmon.ranch.maxaffection=%s любит %s как можно сильно!
+pixelmon.ranch.maxaffection=%s уже любит %s как можно сильно!
 
 //Интерфейс
 /*
