@@ -4930,11 +4930,11 @@ enum.trainerEncounter.onceperplayer=Одному игроку
 enum.trainerEncounter.unlimited=Неограниченно
 
 enum.growth.microscopic=Микроскопический
-enum.growth.pygmy=Карликовый
-enum.growth.runt=Низкий
+enum.growth.pygmy=Миниатюрный
+enum.growth.runt=Карликовый
 enum.growth.small=Маленький
-enum.growth.ordinary=Обыкновенный
-enum.growth.huge=Огромный
+enum.growth.ordinary=Нормальный
+enum.growth.huge=Большой
 enum.growth.giant=Гигантский
 enum.growth.enormous=Огромный
 enum.growth.ginormous=Огромнейший
